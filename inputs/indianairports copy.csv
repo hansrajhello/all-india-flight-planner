@@ -1,0 +1,106 @@
+region,iata,name,city,latitude,longitude
+red,IXA,Agartala Airport,Agartala,23.8926,91.244513
+red,AJL,Aizawl Airport,Aizawl,23.838986,92.624815
+red,RDP,Kazi Nazrul Islam Airport,Andal,23.621389,87.243333
+red,IXB,Bagdogra Airport,Bagdogra,26.68488,88.324816
+red,BBI,Biju Patnaik International Airport,Bhubaneswar,20.252853,85.817385
+red,MAA,Chennai Airport,Chennai,12.982267,80.163782
+red,CJB,Coimbatore International Airport,Coimbatore,11.031026,77.038931
+red,DBR,Darbhanga Airport,Darbhanga,26.1933,85.9114
+red,DIB,Dibrugarh Airport,Dibrugarh,27.483222,95.016474
+red,DMU,Dimapur Airport,Dimapur,25.879816,93.772866
+red,GAY,Gaya Airport,Gaya,24.746667,84.945833
+red,GAU,Lokpriya Gopinath Bordoloi International Airport,Guwahati,26.105185,91.588427
+red,HYD,Rajiv Gandhi International Airport,Hyderabad,17.233702,78.430427
+red,IMF,Imphal Municipal Airport,Imphal,24.76457,93.897063
+red,JRG,Veer Surendra Sai Airport,Jharsuguda,21.912951,84.050091
+red,JRH,Rowriah Airport,Jorhat,26.734483,94.184902
+red,CDP,Kadapa Airport,Kadapa,14.514583,78.76478
+red,CCU,Netaji Subhas Chandra Bose Airport,Kolkata,22.64531,88.439306
+red,KJB,Kurnool Airport,Kurnool,15.714722,78.178056
+red,IXI,Lilabari Airport,Lilabari,27.288274,94.092061
+red,LKO,Chaudhary Charan Singh International Airport,Lucknow,26.764257,80.884186
+red,IXM,Madurai Airport,Madurai,9.838571,78.089494
+red,LDA,Malda Airport,Malda,25.033333,88.15
+red,PYG,Pakyong Airport,Pakyong,27.2278,88.586944
+red,IXT,Pasighat Airport,Pasighat,28.068259,95.335528
+red,IXZ,Port Blair Airport,Port Blair,11.650083,92.732267
+red,PNY,Puducherry Airport,Puducherry,11.968967,79.812846
+red,RJA,Rajahmundry Airport,Rajahmundry,17.109639,81.820807
+red,RUP,Rupsi Airport,Rupsi,26.15,89.916667
+red,SXV,Salem Airport,Salem,11.783128,78.065217
+red,IXS,Kumbhirgram Airport,Silchar,24.916017,92.979255
+red,TRZ,Tiruchirapalli International Airport,Tiruchirappalli,10.762168,78.707241
+red,TIR,Tirupati Airport,Tirupati,13.635721,79.542929
+red,TCR,Tuticorin Airport,Tuticorin,8.716667,78.033333
+red,SHL,Shillong Airport,Umroi,25.704872,91.975983
+red,VGA,Vijayawada Airport,Vijayawada,16.529444,80.797222
+red,VTZ,Vishakhapatnam Airport,Vishakhapatnam,17.723596,83.22768
+green,AGX,Agatti Island Airport,Agatti Island,10.828967,72.179874
+green,AMD,Ahmedabad Airport,Ahmedabad,23.066389,72.624167
+green,IXU,Chikkalthana Airport,Aurangabad,19.866464,75.397207
+green,IXG,Belgaum Airport,Belgaum,15.858611,74.618333
+green,BEP,Bellary Airport,Bellary,15.183333,76.9
+green,BLR,Kempegowda International Airport,Bengaluru,13.200771,77.710228
+green,BHU,Bhavnagar Airport,Bhavnagar,21.755,72.184444
+green,BHJ,Rudra Mata Airport,Bhuj,23.2875,69.670556
+green,IXX,Bidar Airport,Bidar,17.908081,77.487142
+green,NMB,Daman Airport,Daman,20.416667,72.95
+green,DIU,Diu Airport,Diu,20.716667,70.916667
+green,GOI,Dabolim Airport,Goa,15.384534,73.839825
+green,GBI,Kalaburagi Airport,Gulbarga,17.307642,76.956805
+green,HBX,Hubli Airport,Hubli,15.359573,75.086305
+green,JGA,Govardhanpur Airport,Jamnagar,22.463333,70.011944
+green,IXY,Kandla Airport,Kandla,23.111111,70.104167
+green,CNN,Kannur International Airport,Kannur,11.920073,75.549919
+green,COK,Cochin International Airport,Kochi,10.155644,76.390537
+green,KLH,Kolhapur Airport,Kolhapur,16.666667,74.333333
+green,CCJ,Calicut International Airport,Kozhikode,11.138782,75.949976
+green,IXE,Mangalore Airport,Mangalore,12.963543,74.890141
+green,BOM,Chhatrapati Shivaji International Airport,Mumbai,19.089891,72.868047
+green,MYQ,Mysore Airport,Mysore,12.22886,76.657727
+green,NAG,Dr. Babasaheb Ambedkar International Airport,Nagpur,21.090037,79.05636
+green,NDC,Nanded Airport,Nanded,19.183333,77.316667
+green,PBD,Porbandar Airport,Porbandar,21.647222,69.656944
+green,PNQ,Pune Airport,Pune,18.581389,73.920556
+green,RAJ,Civil Airport,Rajkot,22.308673,70.782346
+green,SAG,Shirdi Airport,Shirdi,19.688611,74.378889
+green,STV,Surat Gujarat Airport,Surat Gujarat,21.117658,72.745258
+green,TRV,Trivandrum International Airport,Thiruvananthapuram,8.476126,76.91907
+green,BDQ,Vadodara Airport,Vadodara,22.329077,73.215701
+green,VDY,Jindal Airport,Vijaynagar,15.174967,76.634947
+yellow,AIP,Adampur Airport,Adampur,31.433056,75.760556
+yellow,AGR,Kheria Airport,Agra,27.158333,77.962778
+yellow,IXD,Allahabad Airport,Allahabad,25.440072,81.733876
+yellow,ATQ,Sri Guru Ram Dass Jee International Airport,Amritsar,31.705398,74.806739
+yellow,BEK,Bareilly Airport,Bareilly,28.423379,79.447575
+yellow,BUP,Bathinda Airport,Bathinda,30.270092,74.755809
+yellow,BHO,Raja Bhoj Airport,Bhopal,23.290623,77.335531
+yellow,BKB,Nal Airport,Bikaner,28.070601,73.207199
+yellow,IXC,Chandigarh Airport,Chandigarh,30.676809,76.788039
+yellow,DED,Dehra Dun Airport,Dehra Dun,30.316667,78.033333
+yellow,DEL,Indira Gandhi International Airport,Delhi,28.556162,77.099958
+yellow,DHM,Gaggal Airport,Dharamsala,32.165481,76.260688
+yellow,GOP,Gorakhpur Airport,Gorakhpur,26.746862,83.443762
+yellow,GWL,Gwalior Airport,Gwalior,26.293889,78.23
+yellow,IDR,Devi Ahilya Bai Holkar Airport,Indore,22.72715,75.808227
+yellow,JLR,Jabalpur Airport,Jabalpur,23.17778,80.05194
+yellow,JGB,Jagdalpur Airport,Jagdalpur,19.066667,82.033333
+yellow,JAI,Jaipur Airport,Jaipur,26.822004,75.800995
+yellow,JSA,Jaisalmer Airport,Jaisalmer,26.891826,70.866864
+yellow,IXJ,Satwari Airport,Jammu,32.68077,74.842824
+yellow,JDH,Jodhpur Airport,Jodhpur,26.263948,73.050552
+yellow,KNU,Kanpur Airport,Kanpur,26.404278,80.40989
+yellow,HJR,Khajuraho Airport,Khajuraho,24.818746,79.916417
+yellow,KQH,Ajmer Airport,Kishangarh,26.591219,74.813277
+yellow,KUU,Bhuntar Airport,Kulu,31.983333,77.1
+yellow,IXL,Leh Airport,Leh,34.140351,77.547465
+yellow,LUH,Ludhiana Airport,Ludhiana,30.9,75.85
+yellow,PGH,Pantnagar Airport,Pantnagar,29.031944,79.473611
+yellow,IXP,Pathankot Airport,Pathankot,32.233889,75.634631
+yellow,RPR,Swami Vivekananda Airport,Raipur,21.184561,81.739751
+yellow,SLV,Shimla Airport,Shimla,31.0818,77.068001
+yellow,SXR,Srinagar International Airport,Srinagar,34.002308,74.762631
+yellow,UDR,Maharana Pratap Airport,Udaipur,24.61919,73.891269
+yellow,VNS,Lal Bahadur Shastri International Airport,Varanasi,25.449697,82.853732
+yellow,LKO,Chaudhary Charan Singh International Airport,Lucknow,26.764257,80.884186

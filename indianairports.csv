@@ -1,0 +1,36 @@
+region,iata,name,city,latitude,longitude
+purple,AIP,Adampur Airport,Adampur,31.433056,75.760556
+purple,AGR,Kheria Airport,Agra,27.158333,77.962778
+purple,IXD,Allahabad Airport,Allahabad,25.440072,81.733876
+purple,ATQ,Sri Guru Ram Dass Jee International Airport,Amritsar,31.705398,74.806739
+purple,BEK,Bareilly Airport,Bareilly,28.423379,79.447575
+purple,BUP,Bathinda Airport,Bathinda,30.270092,74.755809
+purple,BHO,Raja Bhoj Airport,Bhopal,23.290623,77.335531
+purple,BKB,Nal Airport,Bikaner,28.070601,73.207199
+purple,IXC,Chandigarh Airport,Chandigarh,30.676809,76.788039
+purple,DED,Dehra Dun Airport,Dehra Dun,30.316667,78.033333
+purple,DEL,Indira Gandhi International Airport,Delhi,28.556162,77.099958
+purple,DHM,Gaggal Airport,Dharamsala,32.165481,76.260688
+purple,GOP,Gorakhpur Airport,Gorakhpur,26.746862,83.443762
+purple,GWL,Gwalior Airport,Gwalior,26.293889,78.23
+purple,IDR,Devi Ahilya Bai Holkar Airport,Indore,22.72715,75.808227
+purple,JLR,Jabalpur Airport,Jabalpur,23.17778,80.05194
+purple,JGB,Jagdalpur Airport,Jagdalpur,19.066667,82.033333
+purple,JAI,Jaipur Airport,Jaipur,26.822004,75.800995
+purple,JSA,Jaisalmer Airport,Jaisalmer,26.891826,70.866864
+purple,IXJ,Satwari Airport,Jammu,32.68077,74.842824
+purple,JDH,Jodhpur Airport,Jodhpur,26.263948,73.050552
+purple,KNU,Kanpur Airport,Kanpur,26.404278,80.40989
+purple,HJR,Khajuraho Airport,Khajuraho,24.818746,79.916417
+purple,KQH,Ajmer Airport,Kishangarh,26.591219,74.813277
+purple,KUU,Bhuntar Airport,Kulu,31.983333,77.1
+purple,IXL,Leh Airport,Leh,34.140351,77.547465
+purple,LUH,Ludhiana Airport,Ludhiana,30.9,75.85
+purple,PGH,Pantnagar Airport,Pantnagar,29.031944,79.473611
+purple,IXP,Pathankot Airport,Pathankot,32.233889,75.634631
+purple,RPR,Swami Vivekananda Airport,Raipur,21.184561,81.739751
+purple,SLV,Shimla Airport,Shimla,31.0818,77.068001
+purple,SXR,Srinagar International Airport,Srinagar,34.002308,74.762631
+purple,UDR,Maharana Pratap Airport,Udaipur,24.61919,73.891269
+purple,VNS,Lal Bahadur Shastri International Airport,Varanasi,25.449697,82.853732
+purple,LKO,Chaudhary Charan Singh International Airport,Lucknow,26.764257,80.884186
